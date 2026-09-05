@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-```sys
+```ini
 > system.info --user=AKSHCHAUHAN1
 [LOCATION]  : Dehradun, Uttarakhand, India
 [EDUCATION] : Computer Science & Engineering @ UPES
