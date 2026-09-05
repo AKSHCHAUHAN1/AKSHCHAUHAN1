@@ -14,12 +14,16 @@
 
   <br /><br />
 
-  <a href="https://linkedin.com/in/akshchauhan1">
+  <a href="https://linkedin.com/in/akshchauhan1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://github.com/AKSHCHAUHAN1">
+  <a href="https://github.com/AKSHCHAUHAN1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:aksh111828@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
@@ -37,10 +41,11 @@
 [STATUS]    : Actively learning, building scalable tools & exploring distributed systems
 ```
 
-- 🎓 **Computer Science Student** at UPES with a focus on core software engineering principles and systems design.
-- ☁️ **Cloud & DevOps Enthusiast** exploring automated infrastructure, CI/CD pipelines, containerization, and IaC (Terraform, AWS, Docker).
-- 🛠️ **Full-Stack Developer** experienced in modern Web APIs, microservices, and interactive web applications using React, TypeScript, Fastify, and Node.js.
-- 🚀 **Continuous Learner** driven by performance optimization, clean code architecture, and hands-on technical problem solving.
+- 🎓 **Computer Science Student** at UPES with a focus on core software engineering principles, distributed systems, and clean architecture.
+- ☁️ **Cloud & DevOps Enthusiast** architecting automated infrastructure, CI/CD pipelines, containerization, and IaC (Terraform, AWS, Docker).
+- 🛠️ **Full-Stack Developer** experienced in modern Web APIs, microservices, and interactive applications using React, TypeScript, Fastify, and Node.js.
+- ⚡ **Systems & Algorithms** passionate about high-throughput backends, memory-efficient design in C++, and performance optimization.
+- 🚀 **Continuous Learner & Builder** driven by developer tooling, open-source collaboration, and shipping robust end-to-end software.
 
 ---
 
@@ -48,7 +53,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,javascript,typescript,python,react,nodejs,express,fastify,vite,tailwind,aws,docker,terraform,githubactions,postgres,prisma,git,linux&perline=9" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=cpp,javascript,typescript,python,react,vite,tailwind,nodejs,express,postgres,prisma,aws,docker,terraform,githubactions,linux,git,postman&perline=9" alt="Tech Stack Icons" />
   </a>
 </div>
 
@@ -60,51 +65,50 @@
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | C++, JavaScript (ES6+), TypeScript, Python, HTML5/CSS3, SQL |
-| **Frontend** | React, Vite, Tailwind CSS, HTML/CSS |
-| **Backend & APIs** | Node.js, Express, Fastify, RESTful APIs |
-| **Cloud & DevOps** | AWS, Docker, Terraform, GitHub Actions, Linux (Bash) |
+| **Languages** | C++, JavaScript (ES6+), TypeScript, Python, HTML5/CSS3, SQL, Bash |
+| **Frontend** | React, Vite, Tailwind CSS, HTML5, CSS3 |
+| **Backend & APIs** | Node.js, Express, Fastify, RESTful APIs, Postman |
+| **Cloud & DevOps** | AWS, Docker, Terraform, GitHub Actions, Linux CLI |
 | **Databases & ORM** | PostgreSQL, Prisma |
-| **Tools & Environment** | Git, GitHub, Docker Compose, Postman, Linux CLI |
+| **Tools & Environment** | Git, GitHub, Docker Compose, Postman, Linux (Ubuntu/Debian) |
 
 </details>
 
 ---
 
-<!-- ==================================================================== -->
-<!-- FEATURED PROJECTS (Disabled as requested - Uncomment to enable)       -->
-<!-- ==================================================================== -->
-<!--
 ## 🚀 Featured Projects
 
 <div align="center">
 
-### 🔷 [SCAPE — Self-Service Cloud Provisioning Platform](https://github.com/AKSHCHAUHAN1/SCAPE)
-Internal Developer Platform empowering developers to self-service provision AWS infrastructure with automated Terraform pipelines, RBAC, cost dashboards, and GitHub Actions integration.
-`React` · `TypeScript` · `Node.js` · `AWS` · `Terraform` · `Docker`
+### ☁️ [SCAPE — Self-Service Cloud Provisioning Platform](https://github.com/AKSHCHAUHAN1/SCAPE)
+> Enterprise Internal Developer Platform empowering developers to self-service provision AWS infrastructure with automated Terraform pipelines, RBAC, cost dashboards, and GitHub Actions integration.
+
+`AWS` · `Terraform` · `Docker` · `TypeScript` · `React` · `Node.js` · `GitHub Actions`
 
 ---
 
-### 🔷 [Voxel — Visual Canvas & Infrastructure Telemetry System](https://github.com/AKSHCHAUHAN1/Voxel)
-Enterprise-grade collaborative visual canvas and telemetry platform with real-time state synchronization.
-`React 18` · `Vite` · `Fastify` · `Prisma` · `Docker`
+### 🎨 [Voxel — Visual Canvas & Infrastructure Telemetry System](https://github.com/AKSHCHAUHAN1/Voxel)
+> Enterprise-grade collaborative visual canvas and telemetry platform with real-time state synchronization, modular architecture, and low-latency rendering.
+
+`React 18` · `Vite` · `Fastify` · `Prisma` · `Docker` · `TypeScript` · `Tailwind CSS`
 
 ---
 
-### 🔷 [IncidentIQ — Web Performance Anomaly Detector & SLA Predictor](https://github.com/AKSHCHAUHAN1/IncidentIQ)
-Microservice-based machine learning pipeline detecting real-time infrastructure anomalies and forecasting SLA breaches using time-series forecasting & NLP.
+### 🧠 [IncidentIQ — Web Performance Anomaly Detector & SLA Predictor](https://github.com/AKSHCHAUHAN1/IncidentIQ)
+> Microservice-based machine learning pipeline detecting real-time infrastructure anomalies and forecasting SLA breaches using time-series forecasting & NLP.
+
 `Python` · `Machine Learning` · `Time-Series` · `Microservices` · `Docker`
 
 ---
 
-### 🔷 [PsychoSpam — Statistical Forensic Analysis of Spam](https://github.com/AKSHCHAUHAN1/PsychoSpam)
-Psycholinguistic scoring framework mapping unsolicited communications to persuasion principles for statistical classification.
-`Python` · `Data Analysis` · `Statistics`
+### ⚡ [CPP-Raylib — Graphical Simulations & Systems Computing](https://github.com/AKSHCHAUHAN1/CPP-RAYLIB-PROJECTS)
+> Interactive graphical rendering, procedural physics simulations, and memory-efficient algorithms built with modern C++ and Raylib.
+
+`C++` · `Raylib` · `Data Structures & Algorithms` · `Game Physics`
 
 </div>
 
 ---
--->
 
 ## 📊 GitHub Analytics
 
@@ -123,7 +127,7 @@ Psycholinguistic scoring framework mapping unsolicited communications to persuas
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKSHCHAUHAN1&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=a855f7&currStreakNum=00f2fe" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AKSHCHAUHAN1&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=a855f7&currStreakNum=00f2fe" alt="GitHub Streak" />
 </div>
 
 ---
@@ -136,6 +140,8 @@ Psycholinguistic scoring framework mapping unsolicited communications to persuas
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AKSHCHAUHAN1/AKSHCHAUHAN1/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Snake Grid" src="https://raw.githubusercontent.com/AKSHCHAUHAN1/AKSHCHAUHAN1/output/github-contribution-grid-snake.svg">
   </picture>
+  <br />
+  <sub>Interactive contribution graph refreshed daily at midnight UTC via GitHub Actions.</sub>
 </div>
 
 ---
@@ -143,17 +149,21 @@ Psycholinguistic scoring framework mapping unsolicited communications to persuas
 ## 🌐 Connect & Reach Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/akshchauhan1">
+  <a href="https://linkedin.com/in/akshchauhan1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-AKSH%20CHAUHAN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/AKSHCHAUHAN1">
+  <a href="https://github.com/AKSHCHAUHAN1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-AKSHCHAUHAN1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:aksh111828@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aksh111828%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <sub>Designed with a clean cyan/purple futuristic aesthetic. Powered by GitHub Actions.</sub>
+  <sub>Designed with a clean cyan/purple Tokyo Night aesthetic · Powered by GitHub Actions.</sub>
 </div>
